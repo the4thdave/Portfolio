@@ -3,7 +3,7 @@
 A showcase of my projects, skills, and education. Created with HTML, CSS, and JS.
 
 
-Credits:
+## Credits
 	Design:
 		HTML5 UP (html5up.net)
 	
